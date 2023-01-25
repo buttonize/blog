@@ -105,4 +105,4 @@ In upcoming years the community will see a lot of innovations coming up in the S
 
 Make sure to follow me on Twitter [@FilipPyrek](https://twitter.com/FilipPyrek) to keep up-to-date with the latest Serverless news and let me know in the comments what you think about this idea.
 
-%\[[https://twitter.com/filippyrek/status/1453034585659527169](https://twitter.com/filippyrek/status/1453034585659527169)\]
+%[https://twitter.com/filippyrek/status/1453034585659527169]
